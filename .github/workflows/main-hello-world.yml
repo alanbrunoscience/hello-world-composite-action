@@ -1,0 +1,14 @@
+name: Workflow Call
+
+on: workflow_call
+
+jobs:
+  workflow-calling:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: alanbrunoscience/github-hello-world-workflow@v1
+        
+
+
+
