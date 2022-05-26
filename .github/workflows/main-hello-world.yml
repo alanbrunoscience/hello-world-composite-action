@@ -1,6 +1,6 @@
 name: Workflow Call
 
-on: workflow_call
+on: push
 
 jobs:
   workflow-calling:
