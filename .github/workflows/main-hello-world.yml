@@ -4,8 +4,4 @@ on: push
 
 jobs:
   workflow-calling:
-    uses: alanbrunoscience/github-hello-world-workflow/.github/workflows/main.yml@v2
-        
-
-
-
+    uses: alanbrunoscience/github-hello-world-workflow/.github/workflows/main.yml
