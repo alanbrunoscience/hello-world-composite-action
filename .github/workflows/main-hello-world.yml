@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3.0.0
-      - uses: alanbrunoscience/github-hello-world-workflow/.github/workflows/main.yml
+      - uses: alanbrunoscience/github-hello-world-workflow/.github/workflows/main.yml@v2
         
 
 
