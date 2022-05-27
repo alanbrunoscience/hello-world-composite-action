@@ -2,7 +2,7 @@ name: Workflow Call
 
 on:
   pull_request:
-    types: [opened, reopened]
+    types: [opened]
 
 jobs:
   workflow-calling:
