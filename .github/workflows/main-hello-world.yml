@@ -6,4 +6,4 @@ on:
 
 jobs:
   workflow-calling:
-    uses: alanbrunoscience/github-hello-world-workflow/.github/workflows/main.yml@v3
+    uses: BancoArbi/github-hello-world-workflow/.github/workflows/main.yml@v3
