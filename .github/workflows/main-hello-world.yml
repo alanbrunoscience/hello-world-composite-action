@@ -4,4 +4,4 @@ on: [push]
 
 jobs:
   workflow-calling:
-    uses: BancoArbi/github-hello-world-workflow/.github/workflows/main.yml@v3
+    uses: alanbrunoscience/github-hello-world-workflow/.github/workflows/main.yml@v3
